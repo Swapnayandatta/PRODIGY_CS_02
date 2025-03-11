@@ -1,4 +1,3 @@
-# PRODIGY_CS_02
 Image Encryption and Decryption
 A Python-based tool to encrypt and decrypt images using a simple XOR cipher algorithm. This project allows users to secure their image files by encrypting the pixel data with a unique key.
 
@@ -57,4 +56,3 @@ Keep the encryption key safe—losing it means you cannot recover the original i
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
- 
